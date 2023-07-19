@@ -1,4 +1,4 @@
-<centrar>
+
 # DDI_Tarea4_200931
 Implementación de una interfaz de usuario con interacción de pantalla Activity
 
@@ -9,7 +9,6 @@ Implementación de una interfaz de usuario con interacción de pantalla Activity
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
-</centrar>
 &nbsp;
 &nbsp;
 |  Característica |  Información |
