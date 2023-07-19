@@ -9,7 +9,7 @@ Implementación de una interfaz de usuario con interacción de pantalla Activity
 ## 9A
 ### Desarrollo de Dispositivos Inteligentes
 
-<centrar>
+</centrar>
 &nbsp;
 &nbsp;
 |  Característica |  Información |
